@@ -21,3 +21,7 @@ Cristian Aldair Tuñon Ruiz
 **Actividades:**
 
 Avance 1 Evidencia 2: Avance1Ev2.ipynb
+
+Tema 9: Act9EjercicioCorrelacion.ipynb
+
+Avance 2 Evidencia 2: Avance2Ev2
