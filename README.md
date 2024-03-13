@@ -1,11 +1,6 @@
 # datos_masivos
 
-JUC, 2023
-
-
-
-**Integrantes:**
+JUC, 2024
 
 Jade Ullola Castro
-
-Yesica Bautista Tapia 
+ 
